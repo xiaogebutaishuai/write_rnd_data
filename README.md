@@ -1,0 +1,1 @@
+The main function of this project is to continuously write useless random data into the free space of the disk, filling the hard drive completely, and repeating this cycle many times. After this operation, files that were previously deleted from the disk will be highly unlikely to be illegally recovered. This project is shared under the MIT License. Feel free to use it.
